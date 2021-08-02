@@ -1,1 +1,3 @@
-# multicoin-wallet-tool
+## About this
+
+Fasbit multicoin wallet
